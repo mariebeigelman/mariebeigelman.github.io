@@ -25,14 +25,14 @@ Before starting my PhD I worked for two years as a statistician-economist, and s
 
 ## NEWS ##
 
-1. See our new WB on the **effect of COVID-19 on help-seeking behavior for intimate partner violence victims** - more on this to come! (click [here](https://github.com/mariebeigelman/mariebeigelman.github.io/files/paper1_COVID19.pdf) for the latest version) 
+  # See our new WB on the **effect of COVID-19 on help-seeking behavior for intimate partner violence victims** - more on this to come! (click [here](https://mariebeigelman.github.io/files/paper1_COVID19.pdf) for the latest version) 
 
 ### In this website you will find ###
 
 1. Information on my current research activities [research activities](https://mariebeigelman.github.io/research)..
 1. and [teaching](https://mariebeigelman.github.io/teaching) experiences
-1. My [resume](https://github.com/mariebeigelman/mariebeigelman.github.io/files/CV)
+1. My [resume](https://mariebeigelman.github.io/files/CV)
 1. Some pictures (all right reserved)
 
-![pretty picture, all rights reserved](https://mariebeigelman.github.io/images/coverpic.JPG)
+![pretty picture, all rights reserved](https://mariebeigelman.github.io/pictures/coverpic.JPG)
 
