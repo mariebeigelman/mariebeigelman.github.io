@@ -14,7 +14,7 @@ redirect_from:
 #### more small ####
 ##### even smaller ##### -->
 
-![pretty picture, all rights reserved](https://mariebeigelman.github.io/pictures/coverpic.JPG)
+![pretty picture, all rights reserved](https://mariebeigelman.github.io/pictures/research.JPG)
 
 
 ## About me ##
