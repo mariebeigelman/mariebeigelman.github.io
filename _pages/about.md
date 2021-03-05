@@ -14,6 +14,8 @@ redirect_from:
 #### more small ####
 ##### even smaller ##### -->
 
+![pretty picture, all rights reserved](https://mariebeigelman.github.io/pictures/coverpic.JPG)
+
 
 ## About me ##
 My name is Marie Beigelman. I am a second-year PhD candidate in Economics at the University of Barcelona supervised by UB Professor [Judit Vall Castello](https://www.juditvall.com/).  
@@ -34,5 +36,5 @@ Before starting my PhD I worked for two years as a statistician-economist, and s
 1. My [resume](https://mariebeigelman.github.io/files/CV)
 1. Some pictures (all right reserved)
 
-![pretty picture, all rights reserved](https://mariebeigelman.github.io/pictures/coverpic.JPG)
+
 
