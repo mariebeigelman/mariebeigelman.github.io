@@ -9,51 +9,51 @@ redirect_from:
 
 {% include base_path %}
 
+*For a detailed version of my resume, [click here](http://mariebeigelman.github.io/files/CV.pdf)*
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD candidate in Economics, University of Barcelona, 2019-
+* MRes in Public Policy and Development, Paris School of Economics, 2016
+* Engineering degree in Statistics, ENSAE ParisTech, 2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019-2020: Pre-doctoral researcher at the CRES-UPF (Center of Research in Health economics, University Pompeu-Fabra)
+  * xxx
+  * xxx
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017-2019: Economist, Quadrat-Etudes, Paris, France
+  * xxx
+  * xx
+  * xx
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computing and data analysis: R, Stata, SAS, VBA
+* Language skills
+  * French: native 2.1
+  * English: fluent 2.2
+  * Spanish: fluent 2.3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+# Publications
+# ======
+#   <ul>{% for post in site.publications %}
+#     {% include archive-single-cv.html %}
+#   {% endfor %}</ul>
+#   
+# Talks
+# ======
+#   <ul>{% for post in site.talks %}
+#     {% include archive-single-talk-cv.html %}
+#   {% endfor %}</ul>
+#   
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+# Service and leadership
+# ======
+# * Currently signed in to 43 different slack teams

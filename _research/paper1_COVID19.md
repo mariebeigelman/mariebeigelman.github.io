@@ -5,7 +5,7 @@ permalink: /research/paper1_COVID19
 excerpt: 
 date: 2020/12
 venue: 'IEB WB 2020/13 '
-paperurl: 'http://mariebeigelman.github.io/files/paper1.pdf'
+paperurl: 'http://mariebeigelman.github.io/files/paper1_COVID19.pdf'
 citation: 'Marie Beigelman & Judit Vall Castello (2020). &quot;Covid-19 and help-seeking behaviour for intimate partner violence victims.&quot; <i>IEB WB 2020/13</i>.
 ---
 
