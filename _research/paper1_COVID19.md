@@ -1,7 +1,7 @@
 ---
 title: "Covid-19 and help-seeking behaviour for intimate partner violence victims"
-collection: research
-permalink: /research/paper1_COVID19
+collection: publications
+permalink: /publication/paper1_COVID19
 excerpt: 
 date: 2020/12
 venue: 'IEB WB 2020/13 '
