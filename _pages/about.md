@@ -14,7 +14,6 @@ redirect_from:
 #### more small ####
 ##### even smaller ##### -->
 
-![pretty picture, all rights reserved](https://github.com/mariebeigelman/mariebeigelman.github.io/images/coverpic.jpg)
 
 ## About me ##
 My name is Marie Beigelman. I am a second-year PhD candidate in Economics at the University of Barcelona supervised by UB Professor [Judit Vall Castello](https://www.juditvall.com/). 
@@ -28,7 +27,7 @@ Before starting my PhD I worked for two years as a statistician-economist, and s
 
 ## NEWS ##
 
-1. See our new WB on the effect of COVID-19 on help-seeking behavior for intimate partner violence victims - more on this to come! (click [here](https://github.com/mariebeigelman/mariebeigelman.github.io/paper1_COVID19.pdf) for the latest version) 
+1. See our new WB on the effect of COVID-19 on help-seeking behavior for intimate partner violence victims - more on this to come! (click [here](https://github.com/mariebeigelman/mariebeigelman.github.io/files/paper1_COVID19.pdf) for the latest version) 
 
 ### In this website you will find ###
 
@@ -37,4 +36,6 @@ Before starting my PhD I worked for two years as a statistician-economist, and s
 1. Also, some information about my non-academic experience
 1. My resume
 1. Some pictures (all right reserved)
+
+![pretty picture, all rights reserved](https://github.com/mariebeigelman/mariebeigelman.github.io/images/coverpic.jpg)
 
