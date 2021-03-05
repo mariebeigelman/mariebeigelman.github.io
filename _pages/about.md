@@ -7,15 +7,26 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<!-- ==== large title
+---- less large title
+# this is a huge header 
+## this is a smaller header ##
+### this is even smaller ###
+#### more small ####
+##### even smaller ##### -->
 
-My name is Marie Beigelman. I am a second-year PhD candidate in Economics at the University of Barcelona. I am an applied Economics, working on Public Policy related problematics, more specifically on gender, health, immigration, and labour topics. 
+My name is Marie Beigelman. //
+I am a second-year PhD candidate in Economics at the University of Barcelona. //
+I am an applied economist working on Public Economics questions, with a special interest in gender inequality, health, and intra-familiar violence. For the first chapter of my thesis, I investigate the impact of the COVID-19 pandemic on intimate partner violence in Spain.  I am currently working on the persistence of intra-familiar violence and its effects on the health of descendants. 
  
-Background
-======
-My post graduate studies
+### Background ###
+I was born and grew up in France, where I studied Statistical Engineering in the "Grande Ecole" ENSAE Paristech. // 
+I also hold a Master in Public Policy and Development from the Paris School of Economics. 
+Before starting my PhD I worked for two years as a statistician-economist, and specialized in socioeconomics studies for professional unions in the health sector. 
 
-What you will find here 
-======
+
+### In this website you will find ###
+
 1. Information on my current and past work
 1. Some pictures
 1. My resume
@@ -38,7 +49,7 @@ How to edit your site's GitHub repository
 Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
 Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+![pretty picture, all rights reserved](/images/coverpic.jpg)
 
 For more info
 ------
