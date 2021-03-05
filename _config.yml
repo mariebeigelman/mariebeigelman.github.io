@@ -85,7 +85,7 @@ author:
   bio              : "PhD candidate in Economics at the University of Barcelona"
   location         : "Barcelona"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "marie.beigelman@ub.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"mariebeigelman"
   google_plus      :
   keybase          :
   instagram        :
