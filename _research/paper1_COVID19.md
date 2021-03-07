@@ -2,7 +2,7 @@
 title: "Covid-19 and help-seeking behaviour for intimate partner violence victims"
 collection: research
 permalink:/research/paper1_COVID19
-excerpt: 'Joint with Judit Vall Castello *[Submitted]*'
+excerpt: 'Working paper Joint with Judit Vall Castello *[Submitted]*'
 date: 2020/12
 venue: 'IEB WB 2020/13 '
 paperurl: 'https://ieb.ub.edu/wp-content/uploads/2020/11/Doc2020-13.pdf'
