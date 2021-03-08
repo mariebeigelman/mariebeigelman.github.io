@@ -33,6 +33,7 @@ Teaching
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 >>>>>>> parent of ce98208 (Update cv.md)
 =======
@@ -41,6 +42,10 @@ Teaching
 >>>>>>> parent of 40a3900 (layout archive)
 =======
 >>>>>>> parent of 40a3900 (layout archive)
+=======
+
+>>>>>>> parent of ce98208 (Update cv.md)
+>>>>>>> parent of c939de2 (Update cv.md)
 Work experience
 ======
 * 2019-2020: Pre-doctoral researcher at the CRES-UPF (Center of Research in Health economics, University Pompeu-Fabra)
