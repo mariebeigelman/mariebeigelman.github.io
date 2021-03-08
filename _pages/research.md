@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: 
 title: "Research"
 permalink: /research/
 excerpt: "Research"
