@@ -23,7 +23,7 @@ I am an applied economist working on Public Economics questions, with a special 
 I was born and grew up in France, where I studied Statistical Engineering in the "Grande Ecole" *ENSAE Paristech*. I also hold a Master in Public Policy and Development from the *Paris School of Economics*. 
 Before starting my PhD I worked for two years as a statistician-economist specialized in socioeconomics studies for professional unions in the health sector. 
 
-## NEWS ##
+## News ##
 
 * See our new WB on the **effect of COVID-19 on help-seeking behavior for intimate partner violence victims** - more on this to come! (click [here](https://mariebeigelman.github.io/files/paper1_COVID19.pdf) for the latest version) 
 
