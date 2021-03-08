@@ -1,12 +1,7 @@
 ---
-layout: page
 title: "Research"
 permalink: /research/
-excerpt: "Research"
 author_profile: true
-redirect_from: 
-  - /research/
-  - /research.html
 ---
 
 ### Working papers ###
