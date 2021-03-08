@@ -1,6 +1,9 @@
 ---
 layout: archive
+<<<<<<< HEAD
+=======
 title: "Research"
+>>>>>>> parent of 7822c45 (Change format of research page)
 permalink: /research/
 author_profile: true
 ---
