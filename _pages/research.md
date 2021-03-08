@@ -1,12 +1,11 @@
 ---
+layout: archive
+title: "Research"
 permalink: /research/
-excerpt: "Research"
 author_profile: true
-redirect_from: 
-  - /research/
-  - /research.html
 ---
 
+<<<<<<< HEAD
 ## Working papers ##
 
 ###&quot;Covid-19 and help-seeking behaviour for intimate partner violence victims.&quot; <i>IEB WB 2020/13</i> (joint with Judit Vall Castello) [Submitted]###
@@ -21,5 +20,14 @@ redirect_from:
 - A History of violence: the effect of slavery on the persistence of intrafamiliar violence in the French Indies
 
 ## Other publications ##
+=======
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+>>>>>>> parent of 7822c45 (Change format of research page)
 
+{% include base_path %}
 
+{% for post in site.research reversed %}
+  {% include archive-single.html %}
+{% endfor %}
