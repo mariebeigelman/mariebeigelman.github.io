@@ -26,5 +26,7 @@ Using detailed data at the local level on the number of calls to the domestic vi
 
 ### Other publications ### 
 
+* Articles in *Alternatives Economiques*: 
+* CRES policy paper: &quot;La Nueva Economia de la Soledad.&quot; (joint with Guillem Lopez Casasnovas) 
 ![pretty picture, all rights reserved](https://mariebeigelman.github.io/pictures/coverpic3.jpg)
 
