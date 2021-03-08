@@ -183,7 +183,7 @@ collections:
   pictures:
     output: true
     permalink: /:collection/:path/
-  talks:
+  cv:
     output: true
     permalink: /:collection/:path/
 
