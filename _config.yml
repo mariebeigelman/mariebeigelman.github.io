@@ -5,6 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 remote_theme: "mmistakes/minimal-mistakes@4.22.0"
+encoding: UTF-8
 # Site Settings
 locale                   : "en-US"
 title                    : "Marie Beigelman"
@@ -149,7 +150,6 @@ exclude:
 keep_files:
   - .git
   - .svn
-encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
