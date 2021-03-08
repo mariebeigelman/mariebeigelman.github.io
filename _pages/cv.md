@@ -21,7 +21,7 @@ author_profile: true
   * 1st semester 2020 - Public Economics (undergraduate)
   * 3rd semester 2020 - Introduction to Economics (IDEA program, undergraduate)
 
-|  
+
 * 2015-2016 - Teaching assistant in Statistics, University Paris Descartes (double degree Law-Economics)
 
 * 2012-2013 -  Oral examinator (*colleuse*) in Mathematics for Preparatory class students, Lycee Lakanal
