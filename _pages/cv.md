@@ -4,7 +4,7 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /cv
 ---
 
 {% include base_path %}
@@ -27,6 +27,7 @@ Teaching
 * 2015-2016: Teaching assistant in Statistics, Université Paris Descartes (double degree Law-Economics)
 
 * 2012-2013: Oral examinator (*colleuse*) in Mathematics for Preparatory class students, Lycée Lakanal
+
 
 Work experience
 ======
