@@ -1,5 +1,4 @@
 ---
-layout: archive
 permalink: /research/
 excerpt: "Research"
 author_profile: true
