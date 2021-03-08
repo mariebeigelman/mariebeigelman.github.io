@@ -26,5 +26,5 @@ Using detailed data at the local level on the number of calls to the domestic vi
 
 ### Other publications ### 
 
-![pretty picture, all rights reserved](https://mariebeigelman.github.io/pictures/coverpic3.JPG)
+![pretty picture, all rights reserved](https://mariebeigelman.github.io/pictures/coverpic3.jpg)
 

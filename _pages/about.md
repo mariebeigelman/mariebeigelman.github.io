@@ -27,5 +27,5 @@ Before starting my PhD I worked for two years as a statistician-economist specia
 
 * See our new WB on the **effect of COVID-19 on help-seeking behavior for intimate partner violence victims** - more on this to come! (click [here](https://mariebeigelman.github.io/files/paper1_COVID19.pdf) for the latest version) 
 
-![pretty picture, all rights reserved](https://mariebeigelman.github.io/pictures/coverpic2.JPG)
+![pretty picture, all rights reserved](https://mariebeigelman.github.io/pictures/coverpic2.jpg)
 
