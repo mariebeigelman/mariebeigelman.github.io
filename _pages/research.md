@@ -6,7 +6,7 @@ author_profile: true
 
 ### Working papers ###
 
-* ##### &quot;Covid-19 and help-seeking behaviour for intimate partner violence victims.&quot; <i>IEB WB 2020/13</i> (joint with Judit Vall Castello) #####
+* #### &quot;Covid-19 and help-seeking behaviour for intimate partner violence victims.&quot; <i>IEB WB 2020/13</i> (joint with Judit Vall Castello) ####
 
 **[Submitted]**
 
@@ -21,7 +21,12 @@ Using detailed data at the local level on the number of calls to the domestic vi
 
 ### Other publications ### 
 
-* Articles in *Alternatives Economiques*: 
-* CRES policy paper: &quot;La Nueva Economia de la Soledad.&quot; (joint with Guillem Lopez Casasnovas) 
+* Media 
+  * Articles in [Alternatives Economiques](https://www.alternatives-economiques.fr/meme-auteur/27496?page=2)
+* Policy papers
+  * &quot;La Nueva Economia de la Soledad: Soledad y Salud de las personas mayores.&quot; (joint with Guillem Lopez Casasnovas); *CRES-UPF Health Policy Papers 2020-03* (available [here](https://www.upf.edu/documents/3223410/7583208/Policy_Paper2020-03_GL_MB.pdf/1b0a385b-1303-1454-4493-c3346198f995))
+  
+  
+=====
 ![pretty picture, all rights reserved](https://mariebeigelman.github.io/pictures/coverpic3.jpg)
 
