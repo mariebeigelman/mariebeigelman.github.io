@@ -7,8 +7,6 @@ redirect_from:
   - /cv
 ---
 
-{% include base_path %}
-
 *For a detailed version of my resume, [click here](http://mariebeigelman.github.io/files/CV.pdf)*
 
 Education
@@ -26,7 +24,7 @@ Teaching
 
 * 2015-2016: Teaching assistant in Statistics, Université Paris Descartes (double degree Law-Economics)
 
-* 2012-2013: Oral examinator (*colleuse*) in Mathematics for Preparatory class students, Lycée Lakanal
+* 2012-2013: Oral examinator ("*colleuse*"") in Mathematics for Preparatory class students, Lycée Lakanal
 
 
 Work experience
@@ -39,7 +37,7 @@ Skills
 ======
 * Computing and data analysis: R, Stata, SAS, VBA
 * Language skills
-  * French: native 2.1
-  * English: fluent 2.2
-  * Spanish: fluent 2.3
+  * French: native 
+  * English: fluent 
+  * Spanish: fluent 
 
