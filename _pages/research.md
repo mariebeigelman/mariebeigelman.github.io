@@ -1,8 +1,9 @@
 ---
-title: ""
 permalink: /research/
 author_profile: true
 ---
+
+I am an applied economist working on Public Economics questions, with a special interest in gender inequality, health, and intra-familiar violence. For the first chapter of my thesis, I have been investigating the impact of the COVID-19 pandemic on intimate partner violence in Spain. I am currently working on the persistence of intra-familiar violence and its effects on the health of descendants. 
 
 ## Working papers ##
 
