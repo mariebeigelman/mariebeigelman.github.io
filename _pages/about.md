@@ -35,5 +35,5 @@ Before starting my PhD I worked for two years as a statistician-economist, and s
 1. Some pictures (all right reserved)
 
 
-![pretty picture, all rights reserved](https://mariebeigelman.github.io/pictures/research.JPG)
+![pretty picture, all rights reserved](https://mariebeigelman.github.io/pictures/coverpic2.JPG)
 
