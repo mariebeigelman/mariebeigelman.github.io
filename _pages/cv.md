@@ -30,8 +30,11 @@ Teaching
 
 * 2012-2013: Oral examinator (*colleuse*) in Mathematics for Preparatory class students, Lycée Lakanal
 
+<<<<<<< HEAD
 
 >>>>>>> parent of ce98208 (Update cv.md)
+=======
+>>>>>>> parent of 40a3900 (layout archive)
 Work experience
 ======
 * 2019-2020: Pre-doctoral researcher at the CRES-UPF (Center of Research in Health economics, University Pompeu-Fabra)
