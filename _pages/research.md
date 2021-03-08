@@ -4,9 +4,9 @@ permalink: /research/
 author_profile: true
 ---
 
-### Working papers ###
+## Working papers ##
 
-* ### &quot;Covid-19 and help-seeking behaviour for intimate partner violence victims.&quot; <i>IEB WB 2020/13</i> (joint with Judit Vall Castello) ###
+### &quot;Covid-19 and help-seeking behaviour for intimate partner violence victims.&quot; <i>IEB WB 2020/13</i> (joint with Judit Vall Castello) ###
 
 **[Submitted]**
 
@@ -15,7 +15,7 @@ author_profile: true
 [Download latest version here](http://mariebeigelman.github.io/files/paper1_COVID19.pdf). 
      
      
-### Work in progress ### 
+## Work in progress ##
 
 * A History of violence: the effect of slavery on the persistence of intrafamiliar violence in the French Indies
 * Covid-19 and male-based violence : evidence from the use of the Catalonian Health services during the pandemic (joint with Judit Vall Castello)
