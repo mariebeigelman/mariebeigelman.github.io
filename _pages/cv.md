@@ -31,8 +31,11 @@ Teaching
 * 2012-2013: Oral examinator (*colleuse*) in Mathematics for Preparatory class students, Lycée Lakanal
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 >>>>>>> parent of ce98208 (Update cv.md)
+=======
+>>>>>>> parent of 40a3900 (layout archive)
 =======
 >>>>>>> parent of 40a3900 (layout archive)
 Work experience
