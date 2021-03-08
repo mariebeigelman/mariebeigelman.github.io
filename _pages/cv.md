@@ -32,8 +32,11 @@ Teaching
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 >>>>>>> parent of ce98208 (Update cv.md)
+=======
+>>>>>>> parent of 40a3900 (layout archive)
 =======
 >>>>>>> parent of 40a3900 (layout archive)
 =======
