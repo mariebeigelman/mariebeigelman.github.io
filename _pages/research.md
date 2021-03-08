@@ -1,9 +1,10 @@
 ---
+pagetitle : "Research"
 permalink: /research/
 author_profile: true
 ---
 
-My research interests lie at the intersection of applied statistics (policy evaluation) and gender economics. I am particularly interested in understanding an extreme of rampant gender inequality, which is gender-based violence.
+<p style='text-align: justify;'> My research interests lie at the intersection of applied statistics (policy evaluation) and gender economics. I am particularly interested in understanding an extreme of rampant gender inequality, which is gender-based violence.</p>
 
 ## Working papers ##
 
