@@ -13,7 +13,7 @@ kramdown:
 
 ### &quot;Covid-19 and help-seeking behaviour for intimate partner violence victims.&quot; <i>IEB WB 2020/13</i> (joint with Judit Vall Castello)### 
 
-<details><summary> <i>Abstract</i></summary> 
+<details><summary> <i>Abstract</i> [Latest version](http://mariebeigelman.github.io/files/paper1_COVID19.pdf)</summary> 
 
 <b>[Submitted]<b>
 
@@ -21,7 +21,7 @@ kramdown:
 
 </details>
 
-[Download latest version here](http://mariebeigelman.github.io/files/paper1_COVID19.pdf) 
+ 
   
   
 ## Work in progress ##
