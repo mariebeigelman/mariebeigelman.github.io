@@ -41,7 +41,7 @@ We contribute to the pre-existing body of literature by providing novel evidence
 
 ### A History of violence: the long-term effect of slavery in the French Indies ###
 
-### Other publications ### 
+## Other publications ##
 
 * Media 
   * Articles in [Alternatives Economiques](https://www.alternatives-economiques.fr/meme-auteur/27496?page=2)
