@@ -11,7 +11,7 @@ kramdown:
 
 ## Working papers ##
 
-<details><summary> <b>"Covid-19 and help-seeking behaviour for intimate partner violence victims." <i>IEB WB 2020/13</i> (joint with Judit Vall Castello)</b></summary> 
+<details><summary>"Covid-19 and help-seeking behaviour for intimate partner violence victims." <i>IEB WB 2020/13</i> (joint with Judit Vall Castello)</summary> 
 
 <b>[Submitted]</b>
 
@@ -25,7 +25,7 @@ kramdown:
 ## Work in progress ##
 
 
-<details><summary><b>"Behind Closed Doors: COVID-19 and detection of male-based violence".(joint with Judit Vall Castello, Neus Carrilero, Anna Garcia Altes)</b></summary>
+<details><summary>"Behind Closed Doors: COVID-19 and detection of male-based violence" (joint with Judit Vall Castello, Neus Carrilero, Anna Garcia Altes)</summary>
   
 <b>[Extended abstract]</b>
 
@@ -38,7 +38,7 @@ kramdown:
 
 </details>
 
-### A History of violence: the long-term effect of slavery in the French Indies ###
+### &quot;A History of violence: the long-term effect of slavery in the French Indies. &quot; ###
 
 ## Other publications ##
 
