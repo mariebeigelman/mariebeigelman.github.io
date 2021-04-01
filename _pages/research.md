@@ -9,7 +9,7 @@ kramdown:
   parse_block_html: true
 ---
 
-![pretty picture, all rights reserved](https://mariebeigelman.github.io/pictures/coverpic3.jpg)
+# Research #
 
 <p style='text-align: justify;'> My research interests lie at the intersection of applied statistics (policy evaluation) and gender economics. I am particularly interested in understanding one the most extreme forms of gender inequality which is gender-based violence.</p>
 
@@ -55,5 +55,6 @@ kramdown:
   * &quot;La Nueva Economia de la Soledad: Soledad y Salud de las personas mayores.&quot; (joint with Guillem Lopez Casasnovas); *CRES-UPF Health Policy Papers 2020-03* (available [here](https://www.upf.edu/documents/3223410/7583208/Policy_Paper2020-03_GL_MB.pdf/1b0a385b-1303-1454-4493-c3346198f995))
   
   
+![pretty picture, all rights reserved](https://mariebeigelman.github.io/pictures/coverpic3.jpg)
 
 
