@@ -39,7 +39,7 @@ kramdown:
 
 </details>
 
-### &quot;A History of violence: the long-term effect of slavery in the French Indies. &quot; ###
+<details><summary> "A History of violence: the long-term effect of slavery in the French Indies"</summary></details>
 
 ## Other publications ##
 
