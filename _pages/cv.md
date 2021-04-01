@@ -2,7 +2,7 @@
 permalink: /cv/
 author_profile: true
 classes: wide
-
+layout: archive
 ---
 
 

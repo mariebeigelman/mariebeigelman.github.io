@@ -2,6 +2,7 @@
 pagetitle : "Research"
 permalink: /research/
 author_profile: true
+layout: archive
 classes: wide
 markdown: kramdown
 kramdown:
