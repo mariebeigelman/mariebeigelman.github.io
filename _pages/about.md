@@ -6,6 +6,8 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+classes: wide
+
 ---
 <!-- ==== large title
 ---- less large title
