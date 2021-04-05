@@ -1,4 +1,5 @@
 ---
+pagetitle : "Resume"
 permalink: /cv/
 author_profile: true
 classes: wide
