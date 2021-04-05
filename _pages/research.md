@@ -9,8 +9,6 @@ kramdown:
   parse_block_html: true
 ---
 
-# Research #
-
 <p style='text-align: justify;'> My research interests lie at the intersection of applied statistics (policy evaluation) and gender economics. I am particularly interested in understanding one the most extreme forms of gender inequality which is gender-based violence.</p>
 
 ## Working papers ##
