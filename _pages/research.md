@@ -24,7 +24,7 @@ kramdown:
 
 ## Work in progress ##
 
-**A History of violence: the long-term effect of slavery in the French Indies**
+* **A History of violence: the long-term effect of slavery in the French Indies**
 
 ## Other publications ##
 
