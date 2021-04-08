@@ -17,9 +17,6 @@ classes: wide
 ### this is even smaller ###
 #### more small ####
 ##### even smaller ##### -->
-
-
-
 ## About me ##
 My name is Marie Beigelman. I am a second-year PhD candidate in Economics at the University of Barcelona supervised by UB Professor [Judit Vall Castello](https://www.juditvall.com/). I was born and grew up in France, where I studied Statistical Engineering in the "Grande Ecole" *ENSAE Paristech*. I also hold a Master in Public Policy and Development from the *Paris School of Economics*. 
 Before starting my PhD I worked for two years as a statistician-economist specialized in socioeconomics studies for professional unions in the health sector.
