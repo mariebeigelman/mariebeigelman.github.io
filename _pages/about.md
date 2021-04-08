@@ -19,7 +19,6 @@ classes: wide
 ##### even smaller ##### -->
 
 
-![pretty picture, all rights reserved](https://mariebeigelman.github.io/pictures/coverpic2.jpg)
 
 ## About me ##
 My name is Marie Beigelman. I am a second-year PhD candidate in Economics at the University of Barcelona supervised by UB Professor [Judit Vall Castello](https://www.juditvall.com/). I was born and grew up in France, where I studied Statistical Engineering in the "Grande Ecole" *ENSAE Paristech*. I also hold a Master in Public Policy and Development from the *Paris School of Economics*. 
@@ -34,5 +33,6 @@ Before starting my PhD I worked for two years as a statistician-economist specia
 * See our new WB on the **effect of COVID-19 on help-seeking behavior for intimate partner violence victims** - more on this to come! (click [here](https://mariebeigelman.github.io/files/paper1_COVID19.pdf) for the latest version) 
 * Happy to be presenting this paper (and ongoing research) at the **[European Society for Population Economics](https://www.espe.org/)** in June 2021, hosted by the University of Barcelona and the BGSE  
 
+![pretty picture, all rights reserved](https://mariebeigelman.github.io/pictures/coverpic2.jpg)
 
  
