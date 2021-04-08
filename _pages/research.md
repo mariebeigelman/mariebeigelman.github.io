@@ -1,15 +1,24 @@
 ---
 pagetitle : "Research"
 permalink: /research/
+excerpt: "Research"
 author_profile: true
 layout: archive
 classes: wide
 markdown: kramdown
 kramdown:
   parse_block_html: true
+  
 ---
 
-# Research # 
+
+<!-- ==== large title
+---- less large title
+# this is a huge header #
+## this is a smaller header ##
+### this is even smaller ###
+#### more small ####
+##### even smaller ##### --> 
 
 ### Working papers ###
 
