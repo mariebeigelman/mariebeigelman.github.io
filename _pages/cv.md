@@ -40,3 +40,12 @@ layout: archive
   * French - native 
   * English - fluent 
   * Spanish - fluent 
+  
+ 
+## Conferences ##
+* 2021: 
+  * **European Society for Population Economics**, June 
+  * **IRDES-Dauphine Workshop on Applied Health Economics and Policy Evaluation**, June
+  * **Taller EvaluAES**, July
+  * **EuHEA PhD Conference**, September [Upcoming]
+  * **European Association of Labour Economics (EALE)**, September [Upcoming]
