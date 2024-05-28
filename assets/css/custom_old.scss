@@ -1,0 +1,174 @@
+// the Nunito font
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+// @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@600&display=swap');
+
+// the Sacramento font
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+// @import url('https://fonts.googleapis.com/css2?family=Raleway+Dots&display=swap');
+// @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@700&display=swap');
+// @import url('https://fonts.googleapis.com/css2?family=Grandstander&display=swap');
+// @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@500&display=swap');
+// @import url('https://fonts.googleapis.com/css2?family=Julius+Sans+One&display=swap');
+// @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+html {
+    font-family: 'Nunito', sans-serif;
+}
+
+.title {
+    font-family: 'Sacramento', cursive;
+    font-size: 1.5em;
+    // font-family: 'Source Code Pro', monospace;
+    // font-family: 'Julius Sans One', sans-serif;
+}
+
+// override fonts set by gruvhugo
+.post-title {
+    font-family: 'Nunito', sans-serif;
+}
+.well h3 {
+    font-family: 'Nunito', sans-serif;
+}
+.intro-quote {
+    font-family: 'Nunito', sans-serif;
+}
+
+.nav {
+    --hover-link-color: var(--link-color);
+    --link-text-color: #454545;
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+    a {
+        padding: 10px 20px;
+        // background: inear-gradient(45deg,#5c6bc0 0%,#26418f 100%);
+        // border: 2px solid #076678;
+        // border-radius: 5px;
+
+        background: transparent;
+        border: none;
+
+        display: inline-flex;
+        flex-direction: column;
+        color: var(--link-text-color);
+
+        transition: color 0.5s ease-in-out;
+
+        font-size: 1.5rem;
+        font-weight: 500;
+    }
+    a:hover {
+        padding: 10px 20px;
+
+        background: transparent;
+        border: none;
+        animation: none;
+
+        // color: var(--link-text-color);
+    }
+
+    a:hover::after {
+        border: 2px solid var(--hover-link-color);
+    }
+
+    a::after {
+        content: " ";
+        border: 2px solid #e0e0e0;
+        border-radius: 2px;
+        transition: border 0.5s ease-in-out;
+    }
+}
+
+body {
+    --text-color: #454545;
+    --insignificant-text-color: #6b6969;
+    --link-color: rgb(21, 94, 117);
+    --smalltag-color: rgb(229, 231, 235);
+}
+
+body.dark {
+    --text-color: #dcdcdc;
+    --link-color: rgb(147, 197, 253);
+    --insignificant-text-color: #a7a5a5;
+    --smalltag-color: rgb(75, 85, 99);
+    color: var(--text-color);
+}
+
+body.dark .nav {
+    --link-text-color: white;
+    a {
+        --hover-link-color: var(--link-color);
+    }
+}
+
+p {
+    a {
+        color: var(--link-color);
+    }
+}
+
+.social {
+    --social-link-hover-color: #454545;
+    --social-link-hover-border-color: #076678;
+
+    a {
+        transition: color 0.3s ease-in-out;
+
+        svg {
+            fill: transparent;
+            transition: fill 0.3s ease-in-out;
+        }
+    }
+
+    a:hover {
+        color: var(--social-link-hover-border-color);
+
+        svg {
+            fill: var(--social-link-hover-color);
+        }
+    }
+}
+
+body.dark .social {
+    --social-link-hover-color: pink;
+    --social-link-hover-border-color: #f78fa1;
+}
+
+.well {
+    h4 {
+        font-size: small;
+    }
+
+    h3 a.link {
+        color: var(--link-color);
+    }
+}
+
+code {
+    background: initial;
+    color: revert;
+}
+
+// heading hover icon
+.heading-anchor {
+    color: var(--text-color);
+    text-decoration: none;
+    // position: relative;
+    // left: 0.5em;
+    font-size: 1.2rem;
+    transition: opacity 0.2s ease-in-out 0.1s;
+    opacity: 40%;
+}
+.heading-anchor:hover {
+    opacity: 100%;
+}
+
+.smalltag {
+    font-size: 1rem;
+    background-color: var(--smalltag-color);
+    padding: 0.1rem 0.5em;
+    margin-right: 0.5rem;
+    border-radius: 0.5rem;
+}

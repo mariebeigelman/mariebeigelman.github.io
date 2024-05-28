@@ -1,0 +1,128 @@
+baseURL = 'https://mariebeigelman.com/'
+languageCode = 'en-us'
+title = 'Marie Beigelman'
+theme = 'gruvhugo'
+
+
+#paginate = "10" # Number of posts per page
+
+# enable shortcodes like css.inline
+enableInlineShortcodes = true
+
+# automatically updates last modified based on git
+enableGitInfo = true
+
+
+[frontmatter]
+  lastmod = ['lastmod', ':git', 'date', 'publishDate']
+
+
+# from gruvhugo
+[taxonomies]
+  tag      = "tags"
+  category = "categories"
+  series   = "series"
+
+[params.main]
+  enabled = true
+  enableKatex = true
+  headerTitle = "Marie Beigelman"
+  name = "marie_beigelman"
+ description = '''
+  I am an applied economist working in <u>Economic History, Development and Political Economy</u>. Later this year I'll become an <b>IAST Fellow at Toulouse School of Economics</b>, before joining 
+  <b>King's College London as an Assistant Professor</b> (Department of Political Economy) in 2025.<br><br>
+
+  My current projects explore the 
+  lasting consequences of violence during New World Slavery, and gender-based violence in contemporary settings. I use 
+  state-of-the-art AI methods for document understanding.<br><br>
+  
+  <b>Contact</b>: marie.beigelman[at]pm[dot]me<br>
+  
+  <b>References:</b>
+  <a href="https://sites.google.com/view/galbiatir1/home">Roberto Galbiati</a>, 
+  <a href="https://nathannunn.arts.ubc.ca/">Nathan Nunn</a>, 
+  <a href="http://piketty.pse.ens.fr/en">Thomas Piketty</a>, 
+  <a href="https://www.juditvall.com/">Judit Vall</a>, 
+  <a href="https://www.economics.ox.ac.uk/people/professor-noam-yuchtman">Noam Yuchtman</a>
+  '''
+  licenseUrl = ""
+ # homeContent = "content/_index"  # Add this line to specify the about page content for the home page
+img = "images/profile.png"
+ 
+ # Social icons
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/mariebeigelman"
+
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:marie.beigelman@pm.me"
+
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/mariebgl"
+
+
+#[params.style]
+  custom_scss = ["css/custom.scss"]
+
+#[params.analytics]
+#  goat_counter_link = #"https://samyak.goatcounter.com/count"
+
+#[menu]
+#  [[menu.main]]
+#    identifier = "about"
+#    name       = "About me"
+#    url        = "about"
+
+#  [[menu.main]]
+#    identifier = "posts"
+#    name       = "Blog"
+#    url        = "post/"
+
+#added an about me button which is the home page
+[[menu.main]]
+    identifier = "home"
+    name       = "About me"
+    url        = ""
+
+
+  [[menu.main]]
+    identifier = "research"
+    name       = "Research"
+    url        = "research"
+
+  [[menu.main]]
+    identifier = "cv"
+    name       = "CV"
+    url        = "cv"
+
+#  [[menu.main]]
+#    identifier = "teaching"
+#    name       = "Teaching"
+#    url        = "teaching"
+
+  [[menu.main]]
+    identifier = "ressources"
+    name       = "Ressources"
+    url        = "ressources"
+
+[permalinks]
+  post = '/:section/:slug'
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = false
+    noClasses = true
+    style = "dracula"
+    tabWidth = 4
+
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

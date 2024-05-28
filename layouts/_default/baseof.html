@@ -1,0 +1,34 @@
+<!-- <!DOCTYPE html>
+<html lang="{{ .Site.Params.main.lang }}">
+    {{- partial "head.html" . -}}
+    <body>
+      <div class="line" id="scrollIndicator"></div>
+      <div class="main">
+          {{- partial "header.html" . -}}        
+	  {{- block "main" . }}{{- end }}
+          {{- partial "footer.html" . -}}
+      </div>
+    </body>
+</html> -->
+
+
+<!DOCTYPE html>
+<html lang="{{ .Site.Params.main.lang }}">
+  {{- partial "head.html" . -}}
+  <body>
+    <div class="line" id="scrollIndicator"></div>
+    <div class="main">
+      {{- partial "header.html" . -}} 
+      {{ if not .IsHome }}
+        {{- partial "menu.html" . -}} <!-- Include menu at the top for non-home pages -->
+      {{ end }}
+    <!-- removed header, it is only my name :  --> 
+      {{- block "main" . }}{{- .Content }}{{- end }}
+      {{ if .IsHome }}
+
+   <!--     {{- partial "menu.html" . -}} --><!-- Include menu at the bottom for home page -->
+      {{ end }}
+      {{- partial "footer.html" . -}}
+    </div>
+  </body>
+</html>
