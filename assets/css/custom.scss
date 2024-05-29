@@ -37,6 +37,32 @@ html {
     font-family: 'Nunito', sans-serif;
 }
 
+
+/* Divider line */
+// turquoise: #076678;
+// gris: 
+
+
+hr {
+    border: none;
+    border-top: 2px solid lightgrey;
+    margin: 20px 0;
+}
+
+/* Justify text within <details> */
+details {
+    text-align: justify;
+    margin-bottom: 10px;
+}
+
+/* Style the summary text */
+details summary {
+    cursor: pointer;
+    margin-left: 20px; /* Move a few centimeters to the right */
+    font-style: italic;
+    color: #076678;
+}
+
 body {
     // margin: -10px;
     // margin-right:-200px;

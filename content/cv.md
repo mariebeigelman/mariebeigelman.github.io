@@ -9,6 +9,9 @@ draft = false
 <!--
 https://www.dropbox.com/scl/fi/fpwyw3d77xo4kqvx7v0t5/CV_BEIGELMAN.pdf?rlkey=ojepg8vbku3wr65c1jr41pxsv&dl=0
 -->
+
+---
+
 ## Education ##
 
 * 2023 [spring] : Visiting student at UBC, with Nathan Nunn
@@ -18,6 +21,10 @@ https://www.dropbox.com/scl/fi/fpwyw3d77xo4kqvx7v0t5/CV_BEIGELMAN.pdf?rlkey=ojep
 * 2012-2016 : Engineering degree in Statistics, ENSAE ParisTech
 * 2010-2012 : Preparatory Class (*Classe Préparatoire*) in Social Sciences, Lycée Lakanal
 
+
+---
+
+
 ## Teaching ##
 
 * 2021-2023 : Lecturer, University of Barcelona (Principles of taxation)
@@ -25,12 +32,16 @@ https://www.dropbox.com/scl/fi/fpwyw3d77xo4kqvx7v0t5/CV_BEIGELMAN.pdf?rlkey=ojep
 * 2015-2016 : Teaching assistant in Statistics, University Paris Descartes (double degree Law-Economics)
 * 2012-2013 :  Oral examinator (*colleuse*) in Mathematics for Preparatory class students, Lycee Lakanal
 
+---
 
 ## Work experience ## 
 
 * 2019-2020 : Pre-doctoral researcher at the CRES-UPF (Center of Research in Health economics, University Pompeu-Fabra)
 * 2017-2019 : Economist, Quadrat-Etudes, Paris, France
 * 2016 : Journalist (internship), Alternatives Economiques  
+
+---
+
 
 ## Presentations ##
 
