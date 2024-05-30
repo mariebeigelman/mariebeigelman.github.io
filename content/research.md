@@ -34,12 +34,12 @@ How violence during slavery might have affected formerly enslaved families remai
 
   <div id="banner" style="display: flex; justify-content: space-between; align-items: center;">
 
-   <div class="inline-block" style="flex: 1; text-align: center;">
-      <img src="/images/map.png" style="max-width: 90%; max-height: 40%;">
+   <div class="inline-block" style="flex: 1; text-align: left;">
+      <img src="/images/map.png" style="max-width: 70%; max-height: 40%;">
    </div>
 
-   <div class="inline-block" style="flex: 1; text-align: center;">
-      <img src="/images/Survplot_father_quantilesyear1.png" style="max-width: 90%; max-height: 70%;">
+   <div class="inline-block" style="flex: 1; text-align: left;">
+      <img src="/images/Survplot_father_quantilesyear1.png" style="max-width: 70%; max-height: 70%;">
    </div>
 
 </div>
@@ -56,14 +56,28 @@ How violence during slavery might have affected formerly enslaved families remai
 Today, formerly enslaved communities in the Caribbean exhibit high rates of domestic abuse against women (Bott et al., 2012), which some scholars have linked to the sexual exploitation of women during slavery (Davis, 1983; Gautier, 2010). On the other hand, black women in the US have consistently showed higher rates of labor force participation compared to white women, which could stem from the fact that men and women shared equal labor responsibilities during slavery (Goldin, 1977; Browne, 1997). The relationship between exposure to slavery and gender equality is, therefore, unclear. This paper focuses on the French Caribbean context and examine whether violence during slavery affected violence against black women, gender norms, and female labor force participation across several generations. To measure violence against women, I exploit individual level information on French West Indies criminals sent to the penal colony of Guyana from 1848 to 1950. I also exploit civil registries from 1848 to 1905 to study female labor force participation and contemporary survey data on violence against women.
 </details>
 
+
+
 <!----
 * *Absent Father or White Father? Family Structures After Slavery* [Data collection ongoing]
 ---->
  **Planters' Individual Effect on Violence during Slavery** [Data collection ongoing]
 <details>
 <summary> <b>Click for abstract </b></summary>
-This paper adds to our understanding of the determinants of the experience of slavery. While previous historical work has highlighted the importance of structural determinants (crops) (Smith, 1982), I investigate the individual effect of slave owners on enslaved workers' enslavement conditions. I focus on the French West Indies, where slavery was abolished in 1848. I exploit information from administrative archival records on enslaved death and birth, which I digitize at the individual level, as well as trial reports of planters judged for torture or murder, to identify the “deadliest” plantations.
+This paper adds to our understanding of the determinants of the experience of slavery. While previous historical work has highlighted the importance of structural determinants (crops) (Smith, 1982), I investigate the specific individual effect of slave owners, whose power over enslaved workers was unlimited. I focus on the French West Indies, where slavery was abolished in 1848. I exploit information from administrative archival records on enslaved death and birth, which I digitize at the individual level, as well as trial reports of planters judged for torture or murder, to identify the “deadliest” plantations.
 </details>
+
+ <div id="banner" style="display: flex; justify-content: space-between; align-items: center;">
+
+
+   <div class="inline-block" style="flex: 1; text-align: left;">
+      <img src="/images/Wip_crime.jpg" style="max-width: 50%; max-height: 70%;">
+   </div>
+
+   <div class="inline-block" style="flex: 1; text-align: left;">
+      <img src="/images/registre.png" style="max-width: 50%; max-height: 70%;">
+   </div>
+   </div>
 
 ---
 
@@ -77,12 +91,30 @@ This paper adds to our understanding of the determinants of the experience of sl
 We examine the influence of jury gender composition on trial outcomes involving popular juries, with a specific focus on sexual crimes. Given that a substantial portion of criminal cases pertains to rape, with most victims being women and perpetrators being men, examining gender-specific biases in criminal cases is crucial. However, the effect of juror's gender on sentencing decisions is not straightforward. One the one hand, female-dominated juries could exhibit heightened leniency due to empathetic considerations toward defendants. On the other hand, women could adopt harsher stances for crimes that they are more likely to suffer (e.g sexual crimes). To study this question, we are undertaking a pilot study in a French criminal court covering information from 209 trials between 2005 and 2022. Causal identification relies on the random selection of jurors during jury formation.
  </details>
 
+  <div id="banner" style="display: flex; justify-content: space-between; align-items: left;">
+
+
+
+
+   <div class="inline-block" style="flex: 1; text-align: left;">
+      <img src="/images/Exemple_PV_tirage_sort_jury.png" style="max-width: 50%; max-height: 100%;">
+   </div>
+</div>
+
  **Behind Closed Doors: Detection of Male-Based Violence in Pandemic Times**, joint with Judit Vall Castelló, Neus Carrilero, Anna Garcia Altès [Working Paper](https://www.dropbox.com/scl/fi/wuj7at0llgkj4bsvh8ls4/Detection_MBV_Pandemic_Healthsytem.pdf?rlkey=w2p0a8csn37axsn3fpa0gwz5o&dl=0)
  <details>
 <summary> <b>Click for abstract </b></summary>
 This paper studies the consequences of the pandemic and the quarantine measures imposed thereafter on the detection of male-based violence victims (women and children) in the context of Spain. Using detailed administrative data from the healthcare system, we document a 32% decrease in the detection of male-based violence against women and children through the healthcare system after the introduction of the lockdown. This effect persisted after social-distancing measures were relaxed and is particularly strong for the most vulnerable groups of victims (low-income households, and children aged 14 or less). We explore alternatives channels of detection and protection of victims, in particular, police and women’s centers and find that the loss of detection through the health system was not compensated through these channels. However, we do report that part of the reduction in detection is offset by an increase in help-seeking behavior of victims through the emergency hotline, which experienced strong increases in the number of calls for extreme forms of abuse:  physical and sexual abuse (+47%), and abuse against children and young adults (+33%). Although the likelihood of being redirected to the policy through the emergency line also increases, our data shows that those victims remained effectively unprotected.
  </details>
 
+  <div id="banner" style="display: flex; justify-content: space-between; align-items: center;">
+
+
+   <div class="inline-block" style="flex: 1; text-align: left;">
+      <img src="/images/EVS_m_adults_pop.png" style="max-width: 30%; max-height: 70%;">
+   </div>
+
+</div>
 
  **Covid-19 and Help-Seeking Behavior of Intimate Partner Violence Victims**, joint with Judit Vall Castelló, [IEB Working Paper N. 2020/13](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3785896)
 <details>
