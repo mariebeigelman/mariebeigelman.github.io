@@ -19,8 +19,8 @@ https://www.dropbox.com/scl/fi/fpwyw3d77xo4kqvx7v0t5/CV_BEIGELMAN.pdf?rlkey=ojep
 
 ## Education ##
 
-* 2020 - 2024 : PhD candidate in Economics, University of Barcelona 
-                **Essays on Violence, Health and Family Dynamics (cum laude)**
+* 2020 - 2024 : PhD in Economics, University of Barcelona -
+                *Essays on Violence, Health and Family Dynamics (cum laude)*
 * 2023 [spring] : Visiting student at UBC, with Nathan Nunn
 * 2022 [spring] : Visiting student at LSE, with Camille Landais; at AMSE, with Roberta Ziparo
 * 2015-2016 : MRes in Public Policy and Development, Paris School of Economics
