@@ -12,11 +12,17 @@ https://www.dropbox.com/scl/fi/fpwyw3d77xo4kqvx7v0t5/CV_BEIGELMAN.pdf?rlkey=ojep
 
 ---
 
+## Academic positions ##
+
+* 2025 - [expected]: Assistant Professor, Department of Political Economy, King's College London
+* 2024-2025 : Research Fellow, Institute of Advanced Studies in Toulouse, Toulouse School of Economics
+
 ## Education ##
 
+* 2020 - 2024 : PhD candidate in Economics, University of Barcelona 
+                **Essays on Violence, Health and Family Dynamics (cum laude)**
 * 2023 [spring] : Visiting student at UBC, with Nathan Nunn
 * 2022 [spring] : Visiting student at LSE, with Camille Landais; at AMSE, with Roberta Ziparo
-* 2020 - : PhD candidate in Economics, University of Barcelona 
 * 2015-2016 : MRes in Public Policy and Development, Paris School of Economics
 * 2012-2016 : Engineering degree in Statistics, ENSAE ParisTech
 * 2010-2012 : Preparatory Class (*Classe Préparatoire*) in Social Sciences, Lycée Lakanal
