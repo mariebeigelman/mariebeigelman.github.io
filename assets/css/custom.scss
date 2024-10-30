@@ -279,9 +279,10 @@ p, li {
     height: auto; /* Maintain aspect ratio */
     border-radius: 100px; /* Keep the rounded shape */
     margin: 10px; /* Optional margin */
-    max-width: 250px;
+    max-width: 350px;
     flex: 1;
     padding-left: -10px;
+    
 }
 
 html.contrast body {
