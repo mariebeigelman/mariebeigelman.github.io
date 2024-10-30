@@ -1,7 +1,7 @@
 {{define "main"}}
 {{ partial "menu.html" . }}
 
-<section class="intro" style="display: flex; align-items: center;">
+<section class="intro" style="display: flex; align-items: center; justify-content: space-between;">
   {{if .Site.Params.main.enabled }}
   
   <div class="image-content" style="flex: 0 0 auto; margin-right: 50px;">
@@ -13,7 +13,7 @@
   {{end}}
   
   <div class="text-content" style="flex: 1;">
-    <h2>  </h2>
+    <h2> </h2>
     <ul>
       <li class="intro-quote">{{ .Site.Params.main.quote }}</li>
     </ul>
