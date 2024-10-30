@@ -324,7 +324,7 @@ blockquote {
 
         transition: color 0.5s ease-in-out;
         text-decoration: none; /* Add this line to remove underline */
-        font-size: 1.3rem;
+        font-size:calc(1em + 0.3vw);
         font-weight: 500;
     }
     a:hover {
