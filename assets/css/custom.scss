@@ -68,10 +68,10 @@ body {
     // margin-right:-200px;
     // margin-left:-200px;
 
-    padding: 0;
+    padding: 0 10px;
     background: $light-color;
     color: #454545;
-    font-size: calc(1em + 0.22vw);
+    font-size: calc(0.9em + 0.22vw);
     box-sizing: border-box;
     line-height: 1.4;
     ::selection {
@@ -248,17 +248,22 @@ p, li {
 .main {
     display: flex;
     flex-direction: column;
-    width: 50%;
+    width: 75%;
     margin: auto;
 }
 
 .intro {
     display: flex;
-    flex-direction: column;
+    // flex-direction: column;
+    align-items: flex-start;
 }
 
 .intro p {
     text-align: justify;
+}
+
+.text-content {
+  flex: 1; /* Take up the remaining space */
 }
 
 .intro-quote {
@@ -270,9 +275,13 @@ p, li {
 }
 
 .image {
-    width: 200px;
-    border-radius: 200px;
-    margin: 10px;
+    //width: 100%; /* Allow the image to take the full width of its container */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 100px; /* Keep the rounded shape */
+    margin: 10px; /* Optional margin */
+    max-width: 250px;
+    flex: 1;
+    padding-left: -10px;
 }
 
 html.contrast body {
@@ -410,7 +419,7 @@ blockquote.dark{
     width: 100%;
     p {
         width: 90%;
-        margin: 10px auto;
+        padding: 10px auto;
     }
     strong {
         width: 90%;

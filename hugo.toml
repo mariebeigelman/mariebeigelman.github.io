@@ -31,7 +31,7 @@ enableGitInfo = true
  description = '''
   I am an applied economist working in <u>Economic History, Development and Political Economy</u>. I am currently a research fellow at <b>IAST - Toulouse School of Economics</b> and will join <b>King's College London as an Assistant Professor</b> (Department of Political Economy) in 2025.<br><br>
 
-  My current projects explore the lasting consequences of violence during colonial slavery in the Carribean, and gender-based violence in contemporary settings. I use state-of-the-art AI methods for document understanding.<br><br>
+  My current projects explore the lasting consequences of violence during colonial slavery in the Carribean, and gender-based violence in contemporary settings. I use state-of-the-art AI methods for document processing and understanding.<br><br>
   
   <b>Contact</b>: marie.beigelman[at]pm[dot]me<br>
   
@@ -44,7 +44,7 @@ enableGitInfo = true
   '''
   licenseUrl = ""
  # homeContent = "content/_index"  # Add this line to specify the about page content for the home page
-img = "images/profile.png"
+img = "images/profile.jpg"
  
  # Social icons
   [[params.social]]
@@ -70,7 +70,7 @@ img = "images/profile.png"
 #[menu]
 #  [[menu.main]]
 #    identifier = "about"
-#    name       = "About me"
+#    name       = "About"
 #    url        = "about"
 
 #  [[menu.main]]
@@ -81,9 +81,8 @@ img = "images/profile.png"
 #added an about me button which is the home page
 [[menu.main]]
     identifier = "home"
-    name       = "About me"
+    name       = "About"
     url        = ""
-
 
   [[menu.main]]
     identifier = "research"
