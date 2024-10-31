@@ -275,14 +275,11 @@ p, li {
 }
 
 .image {
-    //width: 100%; /* Allow the image to take the full width of its container */
+   width: 100%; /* Allow the image to scale with its container */
     height: auto; /* Maintain aspect ratio */
-    border-radius: 100px; /* Keep the rounded shape */
-    margin: 10px; /* Optional margin */
-    max-width: 350px;
-    flex: 1;
-    padding-left: -10px;
-    
+    max-width: 350px; /* Maximum width to prevent it from being too large */
+    border-radius: 50%; /* Keep the rounded shape */
+    margin: 40px; /* Optional margin */
 }
 
 html.contrast body {
@@ -329,7 +326,6 @@ blockquote {
     }
     a:hover {
         padding: 10px 20px;
-
         background: transparent;
         border: none;
         animation: none;
