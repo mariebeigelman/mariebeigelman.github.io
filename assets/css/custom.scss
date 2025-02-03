@@ -275,7 +275,7 @@ p, li {
 }
 
 .image {
-   width: 100%; /* Allow the image to scale with its container */
+    width: 100%; /* Allow the image to scale with its container */
     height: auto; /* Maintain aspect ratio */
     max-width: 350px; /* Maximum width to prevent it from being too large */
     border-radius: 50%; /* Keep the rounded shape */
