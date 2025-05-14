@@ -1,9 +1,10 @@
-
-+++
-title = 'Ressources'
-draft = false
-date = 2024-05-29T11:24:04+02:00
-+++
+---
+title: "Resources"
+date: 2024-05-27T12:15:04+02:00
+draft: false
+menu: main
+weight: 4
+---
     
     
 ### TrOCR_Fr - Digitization Pipeline for French Handwritten Archives ([Github Repository](https://github.com/handwrittenOCR/trocr_handwritten)) ###

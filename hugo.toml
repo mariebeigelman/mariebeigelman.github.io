@@ -82,17 +82,20 @@ img = "images/profile.jpg"
 [[menu.main]]
     identifier = "home"
     name       = "About"
-    url        = ""
+    url        = "/"
+    weight     = 1
 
   [[menu.main]]
     identifier = "research"
     name       = "Research"
-    url        = "research"
+    url        = "/research"
+    weight     = 2
 
   [[menu.main]]
     identifier = "cv"
     name       = "CV"
-    url        = "cv"
+    url        = "/cv"
+    weight     = 3
 
 #  [[menu.main]]
 #    identifier = "teaching"
@@ -101,8 +104,9 @@ img = "images/profile.jpg"
 
   [[menu.main]]
     identifier = "ressources"
-    name       = "Ressources"
-    url        = "ressources"
+    name       = "Resources"
+    url        = "/ressources"
+    weight     = 4
 
 [permalinks]
   post = '/:section/:slug'
