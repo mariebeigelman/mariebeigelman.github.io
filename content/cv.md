@@ -1,10 +1,8 @@
----
-title: "CV"
-date: 2024-05-27T12:15:04+02:00
-draft: false
-menu: main
-weight: 3
----
++++
+title = 'CV'
+date = 2024-05-27T12:15:04+02:00
+draft = false
++++
 
 *For a detailed version of my resume, [click here](https://www.dropbox.com/scl/fi/dgxmiolgiwfhvipp4wsll/Beigelman_CV.pdf?rlkey=5vl5yqpbn3du3rfk1neokg3xm&dl=0)*
 
@@ -54,5 +52,5 @@ https://www.dropbox.com/scl/fi/fpwyw3d77xo4kqvx7v0t5/CV_BEIGELMAN.pdf?rlkey=ojep
 ## Presentations ##
 
 * 2023: NEUDC 2023, Harvard (Upcoming); PSE Economic History Seminar; UBC Dev/Pol Econ Internal Seminar; QMUL Graduate Workshop; CESC Conference
-* 2022: STICERD/IFS/UCL Development WIP; LSE Graduate Economic History Seminar; EuHEA (Oslo); LAGV (Marseille): QPE Workshop (Kings' College London); AMSE Development WIP 
+* 2022: STICERD/IFS/UCL Development WIP; LSE Graduate Economic History Seminar; EuHEA (Oslo); LAGV (Marseille): QPE Workshop (Kings’ College London); AMSE Development WIP 
 * 2021: European Society for Population Economics;IRDES-Dauphine Workshop on Applied Health Economics and Policy Evaluation; Taller EvaluAES; EuHEA PhD-supervisor Conference; European Association of Labour Economics (EALE); 46th Simposio de la Asociación Española de Economía-Spanish Economic Association (SAEe) 
