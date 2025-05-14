@@ -1,4 +1,4 @@
-baseURL = 'https://mariebeigelman.com/'
+baseURL = 'https://mariebeigelman.github.io/'
 languageCode = 'en-us'
 title = 'Marie Beigelman'
 theme = 'gruvhugo'
