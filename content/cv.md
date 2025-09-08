@@ -14,7 +14,7 @@ https://www.dropbox.com/scl/fi/fpwyw3d77xo4kqvx7v0t5/CV_BEIGELMAN.pdf?rlkey=ojep
 
 ## Academic positions ##
 
-* 2025 - [expected]: Assistant Professor, Department of Political Economy, King's College London
+* Since 2025 : Assistant Professor, Department of Political Economy, King's College London
 * 2024-2025 : Research Fellow, Institute of Advanced Studies in Toulouse, Toulouse School of Economics
 
 ## Education ##
