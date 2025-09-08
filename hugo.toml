@@ -29,18 +29,12 @@ enableGitInfo = true
   headerTitle = "Marie Beigelman"
   name = "marie_beigelman"
  description = '''
-  I am a  <b>lecturer (assistant professor) in the department of political economy at King's College London</b>. I work in <u>Economic History, development and political economy</u>. <br><br>
+  I am a  lecturer (assistant professor) in the department of political economy at King's College London</b>. I work in <u>Economic History, development and political economy. 
 
   My current projects explore the lasting consequences of violence during colonial slavery in the Caribbean, and gender-based violence in contemporary settings. I use state-of-the-art AI methods for document processing and understanding.<br><br>
   
   <b>Contact</b>: marie.beigelman[at]kcl[dot]ac[dot]uk<br>
   
-  # <b>References:</b>
-  # <a href="https://sites.google.com/view/galbiatir1/home">Roberto Galbiati</a>, 
-  # <a href="https://nathannunn.arts.ubc.ca/">Nathan Nunn</a>, 
-  # <a href="http://piketty.pse.ens.fr/en">Thomas Piketty</a>, 
-  # <a href="https://www.juditvall.com/">Judit Vall</a>, 
-  # <a href="https://www.economics.ox.ac.uk/people/professor-noam-yuchtman">Noam Yuchtman</a>
   '''
   licenseUrl = ""
  # homeContent = "content/_index"  # Add this line to specify the about page content for the home page
