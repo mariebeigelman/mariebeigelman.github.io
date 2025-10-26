@@ -56,7 +56,7 @@ This paper shows that firms relying on forced labor may intensify coercion in re
 
  <div id="banner" style="display: flex; justify-content: space-between; align-items: center;">
  <div class="inline-block" style="flex: 1; text-align: left;">
-      <img src="/images/Workload_1831_1847.png" style="max-width: 70%; max-height: 70%;">
+      <img src="/images/Workload_1831_1847.png" style="max-width: 30%; max-height: 30%;">
    </div>
 
 
