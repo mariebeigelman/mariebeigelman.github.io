@@ -15,7 +15,8 @@ draft = false
 <!--<img src="https://mariebeigelman.github.io/pictures/coverpic3.jpg" align="center" width="40%" height="20%">-->
 
 
----
+## Slavery and coercive labor ##
+
 
 **From Slavery to Freedom** ([Working Paper](https://www.dropbox.com/s/m1dg2ue4p2aybpi/Beigelman_JMP_Slavery_Families.pdf?dl=0))
 *previously circulated under (Impact of Enslavement Conditions on Families)
@@ -50,7 +51,7 @@ How violence during slavery might have affected formerly enslaved families remai
 
 <summary> <b>Click for abstract </b></summary>
 
-This paper demonstrates that firms relying on forced labor may intensify coercion in response to long-term economic threats. Focusing on French Caribbean slavery, I examine how the decline in sugarcane producers’ revenue prospects—driven by the rise of beet sugar production in mainland France—affected coercion on sugarcane plantations. Using exogenous variation in soil suitability for sugarcane, I find that a 1\% increase in beet sugar production led to a 2\% increase in enslaved workers’ deaths, but only in sugarcane-suitable areas. This resulted in +10\% increase in enslaved workers death in sugarcane counties in less than a decade. To interpret this finding, I develop a model where firms choose coercion levels based on expected returns, costs, and market share. When workers’ outside options are nonexistent, pushing some to exhaustion—and death—could be profit-maximizing for planters facing the end of their market dominance. This response to being cornered has implications for policies aimed at combating forced labor. 
+This paper shows that firms relying on forced labor may intensify coercion in response to long-term economic threats. Focusing on French Caribbean slavery, I examine how the decline in sugarcane producers’ revenue prospects—driven by the rise of beet sugar production in mainland France—affected coercion on sugarcane plantations. Using exogenous variation in soil suitability for sugarcane, I find that a 1\% increase in beet sugar production led to a 2\% increase in enslaved workers’ deaths, but only in sugarcane-suitable areas. This resulted in +10\% increase in enslaved workers death in sugarcane counties in less than a decade. To interpret this finding, I develop a model where firms choose coercion levels based on expected returns, costs, and market share. When workers’ outside options are nonexistent, pushing some to exhaustion—and death—could be profit-maximizing for planters facing the end of their market dominance. This response to being cornered has implications for policies aimed at combating forced labor. 
 </details>
 
  <div id="banner" style="display: flex; justify-content: space-between; align-items: center;">
