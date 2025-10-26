@@ -19,8 +19,8 @@ draft = false
 
 
 **From Slavery to Freedom** ([Working Paper](https://www.dropbox.com/s/m1dg2ue4p2aybpi/Beigelman_JMP_Slavery_Families.pdf?dl=0))
-*previously circulated under (Impact of Enslavement Conditions on Families)
-<sup>*Winner of Best Paper Awards at: QMUL Graduate Workshop 2023, UB Graduate Workshop 2021. Presented at: NEUDC 2023 in Harvard; UBC Dev/Pol Econ BrownBag seminar, PSE Economic History seminar ; LSE Graduate Economic History Seminar; UCL/STICERD/LSE Development Seminar; Kings' College Political Economic Graduate Workshop* </sup>
+
+<sup>*previously circulated under (Impact of Enslavement Conditions on Families). Winner of Best Paper Awards at: QMUL Graduate Workshop 2023, UB Graduate Workshop 2021. Presented at: NEUDC 2023 in Harvard; UBC Dev/Pol Econ BrownBag seminar, PSE Economic History seminar ; LSE Graduate Economic History Seminar; UCL/STICERD/LSE Development Seminar; Kings' College Political Economic Graduate Workshop* </sup>
 <sup> Funding: STEG-CEPR</sup> 
 
 <details>
