@@ -92,9 +92,9 @@ This paper adds to our understanding of the determinants of the experience of sl
       <img src="/images/registre.png" style="max-width: 50%; max-height: 70%;">
    </div>
    </div>
+---->
 
 ---
----->
 
 ## Gender Based Violence in Contemporary Settings ##
 
