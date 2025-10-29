@@ -16,11 +16,10 @@ draft = false
 
 
 
-## Slavery and coercive labor ##
+## Working papers ##
 
 ___
-**- From Slavery to Freedom** ([Working Paper](https://www.dropbox.com/s/m1dg2ue4p2aybpi/Beigelman_JMP_Slavery_Families.pdf?dl=0)). * Previously circulated under (Impact of Enslavement Conditions on Families)***
-
+**From Slavery to Freedom** ([Working Paper](https://www.dropbox.com/s/m1dg2ue4p2aybpi/Beigelman_JMP_Slavery_Families.pdf?dl=0)). *Previously circulated under 'Impact of Enslavement Conditions on Families'*
 <details>
 
 <summary> <b>Click for abstract </b></summary>
@@ -43,10 +42,10 @@ How violence during slavery might have affected formerly enslaved families remai
 </details>
 
 
-### - When Competition Hardens Coercion
+**When Competition Hardens Coercion**
 <details>
 <summary> <b>Click for abstract </b></summary>
-This paper shows that firms relying on forced labor may intensify coercion in response to long-term economic threats. Focusing on French Caribbean slavery, I examine how the decline in sugarcane producers’ revenue prospects—driven by the rise of beet sugar production in mainland France—affected coercion on sugarcane plantations. Using exogenous variation in soil suitability for sugarcane, I find that a 1\% increase in beet sugar production led to a 2\% increase in enslaved workers’ deaths, but only in sugarcane-suitable areas. This resulted in +10\% increase in enslaved workers death in sugarcane counties in less than a decade. To interpret this finding, I develop a model where firms choose coercion levels based on expected returns, costs, and market share. When workers’ outside options are nonexistent, pushing some to exhaustion—and death—could be profit-maximizing for planters facing the end of their market dominance. This response to being cornered has implications for policies aimed at combating forced labor. 
+This paper shows that firms relying on forced labor may intensify coercion in response to long-term economic threats. Focusing on French Caribbean slavery, I examine how the decline in sugarcane producers’ revenue prospects—driven by the rise of beet sugar production in mainland France—affected coercion on sugarcane plantations. Using exogenous variation in soil suitability for sugarcane, I find that a 1% increase in beet sugar production led to a 2% increase in enslaved workers’ deaths, but only in sugarcane-suitable areas. This resulted in +10% increase in enslaved workers death in sugarcane counties in less than a decade. To interpret this finding, I develop a model where firms choose coercion levels based on expected returns, costs, and market share. When workers’ outside options are nonexistent, pushing some to exhaustion—and death—could be profit-maximizing for planters facing the end of their market dominance. This response to being cornered has implications for policies aimed at combating forced labor. 
 
  <div id="banner" style="display: flex; justify-content: space-between; align-items: center;">
  <div class="inline-block" style="flex: 1; text-align: left;">
@@ -89,10 +88,7 @@ This paper adds to our understanding of the determinants of the experience of sl
    </div>
 ---->
 
----
 
-## Gender Based Violence in Contemporary Settings ##
----
  **Does Jury Gender Composition Affect Trial Outcomes? Evidence from French Criminal Courts**, joint with Elliot Motte [Pilot completed](https://www.dropbox.com/scl/fi/tkvsbqgx12axavstzso63/Motte_Beigelman_Gender_Jury_Sentencing_PILOT.pdf?rlkey=nzdnpm1onh878ij4zun2rpbis&dl=0)
  
  <details>
@@ -100,17 +96,12 @@ This paper adds to our understanding of the determinants of the experience of sl
 We examine the influence of jury gender composition on trial outcomes involving popular juries, with a specific focus on sexual crimes. Given that a substantial portion of criminal cases pertains to rape, with most victims being women and perpetrators being men, examining gender-specific biases in criminal cases is crucial. However, the effect of juror's gender on sentencing decisions is not straightforward. One the one hand, female-dominated juries could exhibit heightened leniency due to empathetic considerations toward defendants. On the other hand, women could adopt harsher stances for crimes that they are more likely to suffer (e.g sexual crimes). To study this question, we are undertaking a pilot study in a French criminal court covering information from 209 trials between 2005 and 2022. Causal identification relies on the random selection of jurors during jury formation.
 
   <div id="banner" style="display: flex; justify-content: space-between; align-items: left;">
-
-
-
-
    <div class="inline-block" style="flex: 1; text-align: left;">
       <img src="/images/Exemple_PV_tirage_sort_jury.png" style="max-width: 50%; max-height: 100%;">
    </div>
 </div>
  </details>
 
----
 
  **Behind Closed Doors: Detection of Male-Based Violence in Pandemic Times**, joint with Judit Vall Castelló, Neus Carrilero, Anna Garcia Altès [Working Paper](https://www.dropbox.com/scl/fi/wuj7at0llgkj4bsvh8ls4/Detection_MBV_Pandemic_Healthsytem.pdf?rlkey=w2p0a8csn37axsn3fpa0gwz5o&dl=0)
  <details>
@@ -126,17 +117,14 @@ This paper studies the consequences of the pandemic and the quarantine measures 
 
 </div>
  </details>
-
----
-
+<!----
  **Covid-19 and Help-Seeking Behavior of Intimate Partner Violence Victims**, joint with Judit Vall Castelló, [IEB Working Paper N. 2020/13](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3785896)
 <details>
 <summary> <b>Click for abstract </b></summary>
 
 We investigate two key questions about the effect of the quarantine policies on domestic violence reporting: 1) the role of third party vs victims’ reporting of intimate partner violence (IPV) through hotline calls; 2) the extent to which reported domestic violence translated into protection given to victims. We focus on Spain, and exploit province-level and monthly data on the number of calls to the dedicated emergency hotline for IPV victims between 2013 and 2020.  We find that the introduction of the first lockdown was responsible for an average increase in total calls of 48%, with help-seeking behavior of victims (vs. third party reporting) at the origin of 70% of all reported calls.  Despite the large increase in reported gender violence during the pandemic, we estimate that the introduction of lockdown caused a loss of at least 1,500 protection orders to victims that would, in the absence of the pandemic, have received it. 
 </details>
-
----
+---->
 
 ## Other  ##
 

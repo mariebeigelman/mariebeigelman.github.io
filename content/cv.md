@@ -33,10 +33,12 @@ https://www.dropbox.com/scl/fi/fpwyw3d77xo4kqvx7v0t5/CV_BEIGELMAN.pdf?rlkey=ojep
 
 ## Teaching ##
 
-* 2021-2023 : Lecturer, University of Barcelona (Principles of taxation)
-* 2019-2020 : Teaching assistant, University Pompeu Fabra (Public Economics, Introduction to Economics)
-* 2015-2016 : Teaching assistant in Statistics, University Paris Descartes (double degree Law-Economics)
-* 2012-2013 :  Oral examinator (*colleuse*) in Mathematics for Preparatory class students, Lycee Lakanal
+
+* 2025-2026 : King's College London (UG Quantitative Methods, PG Development Economics)
+* 2021-2023 : University of Barcelona (UG Principles of taxation)
+* 2019-2020 : University Pompeu Fabra (PG Public Economics, PG Introduction to Economics)
+* 2015-2016 : Statistics, University Paris Descartes (double degree Law-Economics)
+* 2012-2013 : Oral examinator (*colleuse*) in Mathematics for Preparatory class students, Lycee Lakanal
 
 ---
 
