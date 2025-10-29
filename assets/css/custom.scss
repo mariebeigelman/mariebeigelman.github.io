@@ -253,10 +253,30 @@ p, li {
 }
 
 .intro {
-    display: flex;
-    // flex-direction: column;
-    align-items: flex-start;
-}
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: center;
+    text-align: center;
+  
+    @media (min-width: 768px) {
+      flex-direction: row;
+      align-items: flex-start;
+      text-align: left;
+    }
+  
+    .image {
+      margin-bottom: 0.5rem;
+  
+      @media (min-width: 768px) {
+        margin-right: 0.5rem;
+        margin-bottom: 0;
+      }
+    }
+  
+    .text-content {
+      flex: 1;
+    }
+  }
 
 .intro p {
     text-align: justify;
