@@ -19,10 +19,11 @@ draft = false
 ## Working papers ##
 
 ___
-**From Slavery to Freedom** ([Working Paper](https://www.dropbox.com/s/m1dg2ue4p2aybpi/Beigelman_JMP_Slavery_Families.pdf?dl=0)). *Previously circulated under 'Impact of Enslavement Conditions on Families'*
+**From Slavery to Freedom** [[Working Paper](https://www.dropbox.com/s/m1dg2ue4p2aybpi/Beigelman_JMP_Slavery_Families.pdf?dl=0)]. *Previously circulated under 'Impact of Enslavement Conditions on Families'*
 <details>
 
-<summary> <b>Click for abstract </b></summary>
+<summary> <b>Abstract </b></summary>
+
 *Winner of Best Paper Awards at: QMUL Graduate Workshop 2023, UB Graduate Workshop 2021. Presented at: NEUDC 2023 in Harvard*. 
 
 How violence during slavery might have affected formerly enslaved families remains an empirically unanswered question. I exploit local variation in enslaved workers' exposure to coercion in two French Caribbean islands: Guadeloupe and Martinique. Using county-level data on enslaved mortality prior to abolition, I document that enslavement conditions were heavily influenced by planters' economic incentives and significantly deteriorated on sugarcane plantations compared to coffee, following heightened competition in the sugar market. I then digitize individual data from handwritten administrative records on all formerly enslaved families that had children five years after abolition. My main finding is that the presence of fathers exposed to the worst conditions during slavery had a sizable negative effect on the quality of childhood environment, with 40% higher chances of child death respective to families with less coerced or absent fathers. This effect holds regardless of fathers' occupation, place of residence, or mothers' characteristics. I find suggestive evidence that this could be driven by worse enslavement conditions leading to more violent men, to which mothers may have responded through strategic matching decisions with less coerced partners. Taken together, my findings point to substantial inequality among descendants of formerly enslaved individuals. I highlight a yet understudied mechanism of slavery’s legacy: which is that adverse events pass through families – possibly through paternal violence.
@@ -44,7 +45,8 @@ How violence during slavery might have affected formerly enslaved families remai
 
 **When Competition Hardens Coercion**
 <details>
-<summary> <b>Click for abstract </b></summary>
+<summary> <b>Abstract </b></summary>
+
 This paper shows that firms relying on forced labor may intensify coercion in response to long-term economic threats. Focusing on French Caribbean slavery, I examine how the decline in sugarcane producers’ revenue prospects—driven by the rise of beet sugar production in mainland France—affected coercion on sugarcane plantations. Using exogenous variation in soil suitability for sugarcane, I find that a 1% increase in beet sugar production led to a 2% increase in enslaved workers’ deaths, but only in sugarcane-suitable areas. This resulted in +10% increase in enslaved workers death in sugarcane counties in less than a decade. To interpret this finding, I develop a model where firms choose coercion levels based on expected returns, costs, and market share. When workers’ outside options are nonexistent, pushing some to exhaustion—and death—could be profit-maximizing for planters facing the end of their market dominance. This response to being cornered has implications for policies aimed at combating forced labor. 
 
  <div id="banner" style="display: flex; justify-content: space-between; align-items: center;">
@@ -89,10 +91,10 @@ This paper adds to our understanding of the determinants of the experience of sl
 ---->
 
 
- **Does Jury Gender Composition Affect Trial Outcomes? Evidence from French Criminal Courts**, joint with Elliot Motte [Pilot completed](https://www.dropbox.com/scl/fi/tkvsbqgx12axavstzso63/Motte_Beigelman_Gender_Jury_Sentencing_PILOT.pdf?rlkey=nzdnpm1onh878ij4zun2rpbis&dl=0)
+ **Does Jury Gender Composition Affect Trial Outcomes? Evidence from French Criminal Courts**, joint with Elliot Motte [[Pilot completed]](https://www.dropbox.com/scl/fi/tkvsbqgx12axavstzso63/Motte_Beigelman_Gender_Jury_Sentencing_PILOT.pdf?rlkey=nzdnpm1onh878ij4zun2rpbis&dl=0)
  
  <details>
-<summary> <b>Click for abstract </b></summary>
+<summary> <b>Abstract </b></summary>
 We examine the influence of jury gender composition on trial outcomes involving popular juries, with a specific focus on sexual crimes. Given that a substantial portion of criminal cases pertains to rape, with most victims being women and perpetrators being men, examining gender-specific biases in criminal cases is crucial. However, the effect of juror's gender on sentencing decisions is not straightforward. One the one hand, female-dominated juries could exhibit heightened leniency due to empathetic considerations toward defendants. On the other hand, women could adopt harsher stances for crimes that they are more likely to suffer (e.g sexual crimes). To study this question, we are undertaking a pilot study in a French criminal court covering information from 209 trials between 2005 and 2022. Causal identification relies on the random selection of jurors during jury formation.
 
   <div id="banner" style="display: flex; justify-content: space-between; align-items: left;">
@@ -103,9 +105,9 @@ We examine the influence of jury gender composition on trial outcomes involving 
  </details>
 
 
- **Behind Closed Doors: Detection of Male-Based Violence in Pandemic Times**, joint with Judit Vall Castelló, Neus Carrilero, Anna Garcia Altès [Working Paper](https://www.dropbox.com/scl/fi/wuj7at0llgkj4bsvh8ls4/Detection_MBV_Pandemic_Healthsytem.pdf?rlkey=w2p0a8csn37axsn3fpa0gwz5o&dl=0)
+ **Behind Closed Doors: Detection of Male-Based Violence in Pandemic Times**, with Judit Vall Castelló, Neus Carrilero, Anna Garcia Altès [[Working Paper]](https://www.dropbox.com/scl/fi/wuj7at0llgkj4bsvh8ls4/Detection_MBV_Pandemic_Healthsytem.pdf?rlkey=w2p0a8csn37axsn3fpa0gwz5o&dl=0)
  <details>
-<summary> <b>Click for abstract </b></summary>
+<summary> <b>Abstract </b></summary>
 This paper studies the consequences of the pandemic and the quarantine measures imposed thereafter on the detection of male-based violence victims (women and children) in the context of Spain. Using detailed administrative data from the healthcare system, we document a 32% decrease in the detection of male-based violence against women and children through the healthcare system after the introduction of the lockdown. This effect persisted after social-distancing measures were relaxed and is particularly strong for the most vulnerable groups of victims (low-income households, and children aged 14 or less). We explore alternatives channels of detection and protection of victims, in particular, police and women’s centers and find that the loss of detection through the health system was not compensated through these channels. However, we do report that part of the reduction in detection is offset by an increase in help-seeking behavior of victims through the emergency hotline, which experienced strong increases in the number of calls for extreme forms of abuse:  physical and sexual abuse (+47%), and abuse against children and young adults (+33%). Although the likelihood of being redirected to the policy through the emergency line also increases, our data shows that those victims remained effectively unprotected.
 
   <div id="banner" style="display: flex; justify-content: space-between; align-items: center;">
