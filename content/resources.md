@@ -1,6 +1,6 @@
 
 +++
-title = 'Ressources'
+title = 'Resources'
 draft = false
 date = 2024-05-29T11:24:04+02:00
 +++

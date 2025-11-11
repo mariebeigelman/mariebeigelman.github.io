@@ -29,10 +29,11 @@ enableGitInfo = true
   headerTitle = "Marie Beigelman"
   name = "marie_beigelman"
  description = '''
-  I am a  lecturer (assistant professor) in the department of political economy at King's College London. I work in economic history, development and political economy. 
+  I am a  Lecturer (Assistant Professor) in the Department of Political Economy at King's College London. I work in economic history, development and political economy.<br><br>
 
 
-  My current projects explore the lasting consequences of violence during colonial slavery in the Caribbean, and gender-based violence in contemporary settings. I use state-of-the-art AI methods for document processing and understanding.<br><br>
+
+  My current projects explore the lasting consequences of violence during colonial slavery, and gender-based violence in contemporary settings. I use state-of-the-art AI methods for document processing and understanding.<br><br>
   
   <b>Contact</b>: marie.beigelman[at]kcl[dot]ac[dot]uk<br>
   
@@ -95,9 +96,9 @@ img = "images/profile.jpg"
 #    url        = "teaching"
 
   [[menu.main]]
-    identifier = "ressources"
-    name       = "Ressources"
-    url        = "ressources"
+    identifier = "resources"
+    name       = "Resources"
+    url        = "resources"
 
 [permalinks]
   post = '/:section/:slug'

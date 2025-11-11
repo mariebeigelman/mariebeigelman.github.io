@@ -265,10 +265,10 @@ p, li {
     }
   
     .image {
-      margin-bottom: 0.5rem;
+      margin-bottom: 10px;
   
       @media (min-width: 768px) {
-        margin-right: 0.5rem;
+        margin-right: 50px;
         margin-bottom: 0;
       }
     }
@@ -291,13 +291,13 @@ p, li {
     list-style: none;
     font-style: italic;
     text-align: center;
-    width: 400px;
+    width: 300px;
 }
 
 .image {
     width: 100%; /* Allow the image to scale with its container */
     height: auto; /* Maintain aspect ratio */
-    max-width: 350px; /* Maximum width to prevent it from being too large */
+    max-width: 270px; /* Maximum width to prevent it from being too large */
     border-radius: 50%; /* Keep the rounded shape */
     margin: 40px; /* Optional margin */
 }

@@ -6,12 +6,12 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     
-    <title>CV | Marie Beigelman</title>
-    <meta name="description" content="CV">
-    <meta property="og:site_name" content="CV" />
+    <title>Resources | Marie Beigelman</title>
+    <meta name="description" content="Resources">
+    <meta property="og:site_name" content="Resources" />
     <meta property="og:title" content="Marie Beigelman" />
-    <meta property="og:description" content="For a detailed version of my resume, click here
-Academic positions Since 2025 : Assistant Professor, Department of Political Economy, King&amp;rsquo;s College London 2024-2025 : Research Fellow, Institute of Advanced Studies in Toulouse, Toulouse School of Economics Education 2020 - 2024 : PhD in Economics, University of Barcelona - Essays on Violence, Health and Family Dynamics (cum laude) 2023 [spring] : Visiting student at UBC, with Nathan Nunn 2022 [spring] : Visiting student at LSE, with Camille Landais; at AMSE, with Roberta Ziparo 2015-2016 : MRes in Public Policy and Development, Paris School of Economics 2012-2016 : Engineering degree in Statistics, ENSAE ParisTech 2010-2012 : Preparatory Class (Classe Préparatoire) in Social Sciences, Lycée Lakanal Teaching 2025-2026 : King&amp;rsquo;s College London (UG Quantitative Methods, PG Development Economics) 2021-2023 : University of Barcelona (UG Principles of taxation) 2019-2020 : University Pompeu Fabra (PG Public Economics, PG Introduction to Economics) 2015-2016 : Statistics, University Paris Descartes (double degree Law-Economics) 2012-2013 : Oral examinator (colleuse) in Mathematics for Preparatory class students, Lycee Lakanal Work experience 2019-2020 : Pre-doctoral researcher at the CRES-UPF (Center of Research in Health economics, University Pompeu-Fabra) 2017-2019 : Economist, Quadrat-Etudes, Paris, France 2016 : Journalist (internship), Alternatives Economiques Presentations 2023: NEUDC 2023, Harvard (Upcoming); PSE Economic History Seminar; UBC Dev/Pol Econ Internal Seminar; QMUL Graduate Workshop; CESC Conference 2022: STICERD/IFS/UCL Development WIP; LSE Graduate Economic History Seminar; EuHEA (Oslo); LAGV (Marseille): QPE Workshop (Kings’ College London); AMSE Development WIP 2021: European Society for Population Economics;IRDES-Dauphine Workshop on Applied Health Economics and Policy Evaluation; Taller EvaluAES; EuHEA PhD-supervisor Conference; European Association of Labour Economics (EALE); 46th Simposio de la Asociación Española de Economía-Spanish Economic Association (SAEe) " />
+    <meta property="og:description" content="TrOCR_Fr - Digitization Pipeline for French Handwritten Archives (Github Repository) I developed a open-source pipeline tailored for the digitization of French Handwritten Archives, which allows for performing three tasks.
+Parsing Layout: The initial stage involves layout parsing, wherein global images are segmented into smaller units, each containing a single line of text. Optical Character Recognition (OCR) Module: Following layout parsing, the OCR module takes center stage, transcribing individual images into text." />
     <meta property="og:image" content="http://localhost:1313/images/profile.jpg" />
     <meta name="keywords" content="" />
     
@@ -102,50 +102,27 @@ Academic positions Since 2025 : Assistant Professor, Department of Political Eco
 <section class="intro">
   
 <div>
-  <p><em>For a detailed version of my resume, <a href="https://www.dropbox.com/scl/fi/dgxmiolgiwfhvipp4wsll/Beigelman_CV.pdf?rlkey=5vl5yqpbn3du3rfk1neokg3xm&amp;dl=0">click here</a></em></p>
-<!--
-https://www.dropbox.com/scl/fi/fpwyw3d77xo4kqvx7v0t5/CV_BEIGELMAN.pdf?rlkey=ojepg8vbku3wr65c1jr41pxsv&dl=0
--->
-<hr>
-<h2 id="academic-positions">Academic positions</h2>
+  <h3 id="trocr_fr---digitization-pipeline-for-french-handwritten-archives-github-repositoryhttpsgithubcomhandwrittenocrtrocr_handwritten">TrOCR_Fr - Digitization Pipeline for French Handwritten Archives (<a href="https://github.com/handwrittenOCR/trocr_handwritten">Github Repository</a>)</h3>
+<p>I developed a open-source pipeline tailored for the digitization of French Handwritten Archives, which allows for performing
+three tasks.</p>
 <ul>
-<li>Since 2025 : Assistant Professor, Department of Political Economy, King&rsquo;s College London</li>
-<li>2024-2025 : Research Fellow, Institute of Advanced Studies in Toulouse, Toulouse School of Economics</li>
+<li>Parsing Layout: The initial stage involves layout parsing, wherein global images are segmented into smaller units, each containing a single line of text.</li>
 </ul>
-<h2 id="education">Education</h2>
+<div id="banner" style="display: flex; justify-content: space-between; align-items: center;">
+  <div class="inline-block" style="text-align: center;">
+  <img src="/images/layout.jpg" style="max-width: 60%; max-height: 60%;">
+  </div>
+    </div>
 <ul>
-<li>2020 - 2024 : PhD in Economics, University of Barcelona -
-<em>Essays on Violence, Health and Family Dynamics (cum laude)</em></li>
-<li>2023 [spring] : Visiting student at UBC, with Nathan Nunn</li>
-<li>2022 [spring] : Visiting student at LSE, with Camille Landais; at AMSE, with Roberta Ziparo</li>
-<li>2015-2016 : MRes in Public Policy and Development, Paris School of Economics</li>
-<li>2012-2016 : Engineering degree in Statistics, ENSAE ParisTech</li>
-<li>2010-2012 : Preparatory Class (<em>Classe Préparatoire</em>) in Social Sciences, Lycée Lakanal</li>
+<li>Optical Character Recognition (OCR) Module: Following layout parsing, the OCR module takes center stage, transcribing individual images into text.For this purpose, we specifically fine-tuned a baseline <a href="https://github.com/microsoft/unilm/tree/master/trocr">TrOCR model</a> for French handwritten text.</li>
+<li>Named Entity Recognition (NER) Module: In the final stage, the Named Entity Recognition module
+extracts key information from the transcribed archival content</li>
 </ul>
-<hr>
-<h2 id="teaching">Teaching</h2>
-<ul>
-<li>2025-2026 : King&rsquo;s College London (UG Quantitative Methods, PG Development Economics)</li>
-<li>2021-2023 : University of Barcelona (UG Principles of taxation)</li>
-<li>2019-2020 : University Pompeu Fabra (PG Public Economics, PG Introduction to Economics)</li>
-<li>2015-2016 : Statistics, University Paris Descartes (double degree Law-Economics)</li>
-<li>2012-2013 : Oral examinator (<em>colleuse</em>) in Mathematics for Preparatory class students, Lycee Lakanal</li>
-</ul>
-<hr>
-<h2 id="work-experience">Work experience</h2>
-<ul>
-<li>2019-2020 : Pre-doctoral researcher at the CRES-UPF (Center of Research in Health economics, University Pompeu-Fabra)</li>
-<li>2017-2019 : Economist, Quadrat-Etudes, Paris, France</li>
-<li>2016 : Journalist (internship), Alternatives Economiques</li>
-</ul>
-<hr>
-<h2 id="presentations">Presentations</h2>
-<ul>
-<li>2023: NEUDC 2023, Harvard (Upcoming); PSE Economic History Seminar; UBC Dev/Pol Econ Internal Seminar; QMUL Graduate Workshop; CESC Conference</li>
-<li>2022: STICERD/IFS/UCL Development WIP; LSE Graduate Economic History Seminar; EuHEA (Oslo); LAGV (Marseille): QPE Workshop (Kings’ College London); AMSE Development WIP</li>
-<li>2021: European Society for Population Economics;IRDES-Dauphine Workshop on Applied Health Economics and Policy Evaluation; Taller EvaluAES; EuHEA PhD-supervisor Conference; European Association of Labour Economics (EALE); 46th Simposio de la Asociación Española de Economía-Spanish Economic Association (SAEe)</li>
-</ul>
-
+<div id="banner" style="display: flex; justify-content: space-between; align-items: center;">
+  <div class="inline-block" style="flex: 1; text-align: center;">
+  <img src="/images/NER.png" style="max-width: 100%; max-height: 60%;">
+  </div>
+  </div>
 </div>
 
 </section>
