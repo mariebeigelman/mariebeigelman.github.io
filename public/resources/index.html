@@ -10,8 +10,9 @@
     <meta name="description" content="Resources">
     <meta property="og:site_name" content="Resources" />
     <meta property="og:title" content="Marie Beigelman" />
-    <meta property="og:description" content="TrOCR_Fr - Digitization Pipeline for French Handwritten Archives (Github Repository) I developed a open-source pipeline tailored for the digitization of French Handwritten Archives, which allows for performing three tasks.
-Parsing Layout: The initial stage involves layout parsing, wherein global images are segmented into smaller units, each containing a single line of text. Optical Character Recognition (OCR) Module: Following layout parsing, the OCR module takes center stage, transcribing individual images into text." />
+    <meta property="og:description" content="TrOCR_Fr - Digitization Pipeline for French Handwritten Archives (Github Repository) An open-source pipeline for digitizing French handwritten archives, developed with Arnault Gombert. Built around three core steps:
+Layout parsing: Raw document images are segmented into individual lines of text before anything else happens. OCR: Each line image is then transcribed using a TrOCR model fine-tuned specifically on French handwritten text.
+Named Entity Recognition: Finally, a NER module pulls out structured information from the transcribed content — names, places, dates, and so on." />
     <meta property="og:image" content="http://localhost:1313/images/profile.jpg" />
     <meta name="keywords" content="" />
     
@@ -103,26 +104,28 @@ Parsing Layout: The initial stage involves layout parsing, wherein global images
   
 <div>
   <h3 id="trocr_fr---digitization-pipeline-for-french-handwritten-archives-github-repositoryhttpsgithubcomhandwrittenocrtrocr_handwritten">TrOCR_Fr - Digitization Pipeline for French Handwritten Archives (<a href="https://github.com/handwrittenOCR/trocr_handwritten">Github Repository</a>)</h3>
-<p>I developed a open-source pipeline tailored for the digitization of French Handwritten Archives, which allows for performing
-three tasks.</p>
+<p>An open-source pipeline for digitizing French handwritten archives, developed with <a href="">Arnault Gombert</a>. Built around three core steps:</p>
 <ul>
-<li>Parsing Layout: The initial stage involves layout parsing, wherein global images are segmented into smaller units, each containing a single line of text.</li>
+<li><strong>Layout parsing:</strong> Raw document images are segmented into individual lines of text before anything else happens.</li>
 </ul>
 <div id="banner" style="display: flex; justify-content: space-between; align-items: center;">
   <div class="inline-block" style="text-align: center;">
   <img src="/images/layout.jpg" style="max-width: 60%; max-height: 60%;">
   </div>
-    </div>
+</div>
 <ul>
-<li>Optical Character Recognition (OCR) Module: Following layout parsing, the OCR module takes center stage, transcribing individual images into text.For this purpose, we specifically fine-tuned a baseline <a href="https://github.com/microsoft/unilm/tree/master/trocr">TrOCR model</a> for French handwritten text.</li>
-<li>Named Entity Recognition (NER) Module: In the final stage, the Named Entity Recognition module
-extracts key information from the transcribed archival content</li>
+<li>
+<p><strong>OCR:</strong> Each line image is then transcribed using a <a href="https://github.com/microsoft/unilm/tree/master/trocr">TrOCR model</a> fine-tuned specifically on French handwritten text.</p>
+</li>
+<li>
+<p><strong>Named Entity Recognition:</strong> Finally, a NER module pulls out structured information from the transcribed content — names, places, dates, and so on.</p>
+</li>
 </ul>
 <div id="banner" style="display: flex; justify-content: space-between; align-items: center;">
   <div class="inline-block" style="flex: 1; text-align: center;">
   <img src="/images/NER.png" style="max-width: 100%; max-height: 60%;">
   </div>
-  </div>
+</div>
 </div>
 
 </section>
