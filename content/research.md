@@ -19,7 +19,7 @@ draft = false
 ## Working papers ##
 
 ___
-**Sugar, Hardship, and Aftermath of Slavery** [[Working Paper](https://www.dropbox.com/scl/fi/gvhkmsi2i3hpw4ksfpxhk/Beigelman_Slavery.pdf?rlkey=p2nkbfutgcztp6to1id13h9p7&dl=0])]. 
+**Sugar, Hardship, and Aftermath of Slavery** [[Working Paper]](https://www.dropbox.com/scl/fi/gvhkmsi2i3hpw4ksfpxhk/Beigelman_Slavery.pdf?rlkey=p2nkbfutgcztp6to1id13h9p7&dl=0]). 
 <details>
 
 <summary> <b>Abstract </b></summary>
