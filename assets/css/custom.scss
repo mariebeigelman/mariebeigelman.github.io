@@ -252,34 +252,47 @@ p, li {
     margin: auto;
 }
 
+/* Mobile first: image on top, text below. Side by side only from 768px up. */
 .intro {
-    display: flex !important;
-    flex-direction: row !important;
+    display: flex;
+    flex-direction: column;
     align-items: center;
     text-align: center;
-  
-    @media (min-width: 768px) {
-      flex-direction: row;
-      align-items: flex-start;
-      text-align: left;
+
+    .image-content {
+      display: flex;
+      max-width: 100%;
+      min-width: 0;
     }
-  
-    .image {
-      margin-bottom: 10px;
-  
-      @media (min-width: 768px) {
-        margin-right: 50px;
-        margin-bottom: 0;
-      }
-    }
-  
+
     .text-content {
       flex: 1;
+      /* without this a flex item refuses to shrink below its longest word,
+         which pushes the whole page sideways on a phone */
+      min-width: 0;
+      overflow-wrap: break-word;
+    }
+
+    @media (min-width: 768px) {
+      flex-direction: row;
+      text-align: left;
+
+      .image-content {
+        margin-right: 10px;
+      }
+
+      .image {
+        margin-right: 50px;
+      }
     }
   }
 
 .intro p {
-    text-align: justify;
+    text-align: left;
+
+    @media (min-width: 768px) {
+      text-align: justify;
+    }
 }
 
 .text-content {
@@ -291,15 +304,21 @@ p, li {
     list-style: none;
     font-style: italic;
     text-align: center;
-    width: 300px;
+    width: 100%;
+    max-width: 300px;
 }
 
 .image {
+    display: block;
     width: 100%; /* Allow the image to scale with its container */
     height: auto; /* Maintain aspect ratio */
     max-width: 270px; /* Maximum width to prevent it from being too large */
     border-radius: 50%; /* Keep the rounded shape */
-    margin: 40px; /* Optional margin */
+    margin: 20px auto; /* No side margin on narrow screens */
+
+    @media (min-width: 768px) {
+      margin: 40px;
+    }
 }
 
 html.contrast body {
