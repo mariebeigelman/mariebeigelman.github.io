@@ -283,6 +283,7 @@ p, li {
 
       .image {
         margin-right: 50px;
+        margin-bottom: 0;
       }
     }
   }
@@ -312,11 +313,12 @@ p, li {
     display: block;
     width: 100%; /* Allow the image to scale with its container */
     height: auto; /* Maintain aspect ratio */
-    max-width: 270px; /* Maximum width to prevent it from being too large */
+    max-width: 120px; /* Small thumbnail above the text on phones */
     border-radius: 50%; /* Keep the rounded shape */
-    margin: 20px auto; /* No side margin on narrow screens */
+    margin: 10px auto 20px; /* No side margin on narrow screens */
 
     @media (min-width: 768px) {
+      max-width: 270px;
       margin: 40px;
     }
 }
